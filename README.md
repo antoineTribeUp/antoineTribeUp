@@ -7,6 +7,8 @@ I give you a glimpse of IT tools we provide 🤙🤙
 - Connector Cegid Retail Y2 / Klavyio : Facilitate your GDPR and UCR with Klavyio / Y2 connector 😃
 - File monitoring tool for Cegid Retail Y2 : Monitore your files transfered with your Cegid Retail Y2 software 📊
 - Connector Cegid Retail Y2 / Shopify: We deliver a bunch of module to get full omnichannel journey between your POS Y2 and CMS Shopify 🗺🚟
+
+
 These tools are open source, free and can be deployed on your IT landscape 🏞
 We deliver a full documentation for each tool !
 Of course we can help on the deployment and evolution of those tools 🙋‍♂️
